@@ -1,1 +1,1 @@
-This project will show all the skills I have learned so far by demonstrating it.
+This project will show all the skills I have learned so far by demonstrating it. Which includes basic HTML such as elements, tags, lists, links and images.
